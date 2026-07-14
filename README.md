@@ -19,4 +19,3 @@ Feel free to connect with me or explore my repositories. I'm always open to disc
 
 **Telegram:** @TheMakarik
 
-**Telegram:** @TheMakarik
