@@ -1,4 +1,4 @@
-# Hello, I'm TheMakarik (Morozov Makar) 👋
+## Hello, I'm TheMakarik (Morozov Makar) 👋
 
 **Junior .NET Developer**
 
@@ -8,11 +8,19 @@ Welcome to my GitHub profile! Here I share my projects, experiments, and what I'
 
 | Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Programming Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 | **Frameworks & Platforms** | ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white) ![AvaloniaUI](https://img.shields.io/badge/AvaloniaUI-4B275F?style=flat-square&logo=avaloniaui&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | **Unit Testing** | ![xUnit.net](https://img.shields.io/badge/xUnit.net-5E2B97?style=flat-square&logo=xunit&logoColor=white) ![NUnit](https://img.shields.io/badge/NUnit-4B9C3D?style=flat-square&logo=nunit&logoColor=white) ![FakeItEasy](https://img.shields.io/badge/FakeItEasy-FF6B6B?style=flat-square&logo=fsharp&logoColor=white) |
 | **Databases** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Other Tools & Technologies** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+<div align="center">
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMakarik&theme=dracula&bg_color=0d1117&color=9B59B6&line=8E44AD&point=6C3483&area=true&area_color=2C0A3A&hide_border=false&border_color=6C3483&custom_title=My%20GitHub%20Activity&radius=15" width="95%"/>
+
+</div>
 
 ## 📫 How to reach me
 
