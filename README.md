@@ -16,9 +16,10 @@ Welcome to my GitHub profile! Here I share my projects, experiments, and what I'
 
 <div align="center">
 
-## 📊 Contribution Graph
+## 📊 # Hackathons
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMakarik&theme=dracula&bg_color=0d1117&color=9B59B6&line=8E44AD&point=6C3483&area=true&area_color=2C0A3A&hide_border=false&border_color=6C3483&custom_title=My%20GitHub%20Activity&radius=15" width="95%"/>
+### 2026
+1) KosmoHackaton (КосмоХакатон) - 18th place (Project: https://github.com/TheMakarik/ForestProof)
 
 </div>
 
