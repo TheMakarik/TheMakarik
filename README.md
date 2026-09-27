@@ -28,6 +28,7 @@ Feel free to connect with me or explore my repositories. I'm always open to disc
 
 | Platform | Link |
 | :--- | :--- |
+| **SourceCraft** | [themakarik](https://sourcecraft.dev/themakarik/) |
 | **Telegram** | [@TheMakarik](https://t.me/TheMakarik) |
 | **Discord** | [@themakarik4](https://discord.com/users/themakarik4) |
 | **Stack Overflow** | [TheMakarik](https://stackoverflow.com/users/30078385/themakarik) |
