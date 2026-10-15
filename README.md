@@ -19,6 +19,7 @@ Welcome to my GitHub profile! Here I share my projects, experiments, and what I'
 
 ### 2026
 1) KosmoHackaton (КосмоХакатон) - 18th place (Project: https://github.com/TheMakarik/ForestProof)
+2) Leaders of Digital Transformation (ЛЦТ) - less than 10th place (Project: https://github.com/TheMakarik/SourceCraftRepoHealthChecker)
 
 
 
